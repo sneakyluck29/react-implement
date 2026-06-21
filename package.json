@@ -53,7 +53,7 @@
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^2.1.4",
     "webpack-dashboard": "^2.0.0",
-    "webpack-dev-server": "^3.1.4",
+    "webpack-dev-server": "^5.2.5",
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
